@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidLinq", "GuidLinq.csproj", "{583F7F23-FCC0-4C77-95F1-433B66487F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583F7F23-FCC0-4C77-95F1-433B66487F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583F7F23-FCC0-4C77-95F1-433B66487F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583F7F23-FCC0-4C77-95F1-433B66487F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583F7F23-FCC0-4C77-95F1-433B66487F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F2056B-864A-4B84-B161-8CE2459564B8}
+	EndGlobalSection
+EndGlobal
